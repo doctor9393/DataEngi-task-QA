@@ -78,3 +78,6 @@
 2.	For the add a contact necessary fill out in the required fields (Name, Email (Main), Phone (Main)) with valid data. Other fields can be blank or filled out with valid data ("Zip code" field).
 3.	When creating a new contact, user can specify few email addresses and phone numbers. However, it must necessarily be indicated Email (Main), Phone (Main)
 
+**Add five new contacts from table:**
+![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/forTask2.jpg)
+
