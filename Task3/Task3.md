@@ -33,22 +33,6 @@ Requests were analyzed in such a way(on the example  added "Create a Contact Gro
 **During the testing, problems with the user interface were detected, bugs are described in document "Bug report.md" in folder "Task3".**
 
 
-**2. User story for Customer contact add :**
-
-**As an employee of the company, I want to add customer contacts to the customer contact database for the purpose of their accounting.**
-
-**Acceptance criteria:**
-1. As an employee of the company, I have the opportunity to create a new contact.
-2. As an employee of the company, I must fill in the required fields to create a new contact.
-3. As an employee of the company, I have the opportunity to create a new contact with several email addresses and phone numbers.
-
-
-
-
-
-
-
-
 **2. Discover Swagger implementation https://github.com/dataengi/crm-seed/blob/master/conf/routes. Try to execute API requests or create bug reports if they are.**
 ==================================
 **1. Use case for adding a new client contact**
