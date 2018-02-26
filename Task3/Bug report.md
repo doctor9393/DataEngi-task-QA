@@ -9,7 +9,7 @@ When creating a new contact or group, user can enter same large amount character
 **Actual behavior:**
 
 
-When creating a new contact or group, user can enter same large amount characters in the different fields, and the user interface look not correctly.(**"Screenshot. Bug 1", "Screenshot. Bug 2", "Screenshot. Bug 3"**).
+When creating a new contact or group, user can enter same large amount characters in the different fields, and the user interface look not correctly.(**"Screenshot. Bug 1.1", "Screenshot. Bug 1.2", "Screenshot. Bug 1.3"**).
 
 **Precondition:**
 
@@ -32,12 +32,12 @@ Or
 5. Select checkbox near name of any contact.
 6. Click on the item "Add to group"
 
-**Screenshot. Bug 1**
+**Screenshot. Bug 1.1**
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/BugsPhotos/Bug1.jpg)
 
-**Screenshot. Bug 1**
+**Screenshot. Bug 1.2**
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/BugsPhotos/Bug2.jpg)
 
-**Screenshot. Bug 1**
+**Screenshot. Bug 1.3**
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/BugsPhotos/Bug3.jpg)
 
