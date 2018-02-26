@@ -33,20 +33,6 @@ Requests were analyzed in such a way(on the example  added "Create a Contact Gro
 **During the testing, problems with the user interface were detected, bugs are described in document "Bug report.md" in folder "Task3".**
 
 
-
-**As an employee of the company I want to get convenient access to the contact database of clients with the purpose to manage of customer contacts and their accounting.**
-
-**Acceptance criteria:**
-1. As an employee of the company, I have the opportunity to create a new contact.
-2. As an employee of the company, I have the opportunity to edit the contact.
-3. As an employee of the company, I have the opportunity to remove the contact.
-4. As an employee of the company, I have the opportunity to filter contacts on the specified fields.
-5. As an employee of the company, I have the opportunity to create a group of contacts.
-6. As an employee of the company, I have the opportunity to add contacts to the group.
-7. As an employee of the company, I have the opportunity to delete a contact group.
-8. As an employee of the company, I have the opportunity to remove a contact from the group.
-9. As an employee of the company, I have the opportunity to use the search for contacts for certain data.
-
 **2. User story for Customer contact add :**
 
 **As an employee of the company, I want to add customer contacts to the customer contact database for the purpose of their accounting.**
