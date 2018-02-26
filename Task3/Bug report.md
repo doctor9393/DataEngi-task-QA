@@ -22,7 +22,7 @@ A user should be login with Root role.
 3. Enter in the field "Enter new group name" more that 25 characters, the maximum possible amount.
 4. Click button "Add"
 
-**Bug 1. Screenshot*
+**Bug 1. Screenshot**
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/BugsPhotos/Bug1.jpg)
 
 
