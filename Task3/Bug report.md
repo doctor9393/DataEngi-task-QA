@@ -34,7 +34,8 @@ Or
 
 **Screenshot. Bug 1**
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/BugsPhotos/Bug1.jpg)
-**Screenshot. Bug 2**
+
+**Screenshot. Bug 1**
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/BugsPhotos/Bug2.jpg)
 
 **Screenshot. Bug 1**
