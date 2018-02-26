@@ -80,9 +80,9 @@
 
 To verify: Add five new contacts from this table
 
-It is not possible to add a record which does not contain required fields((Name, Email (Main), Phone (Main))). Record with a name "Carlyn" can not add, because the number is not specified
+It is not possible to add a record which does not contain required fields((Name, Email (Main), Phone (Main))). Record with a name "Carlyn" can not add, because the number is not specified.
 
-**Add five new contacts from table:**
+**Add five new contacts from table(and some others):**
 
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/forTask2.jpg)
 
