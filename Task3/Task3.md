@@ -30,7 +30,7 @@ Requests were analyzed in such a way(on the example  added "Create a Contact Gro
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/UpdateOfGroup.jpg)
 
 
-**During the testing, problems with the user interface were detected, bugs are described in document "Bug report" in folder "Task3""**
+**During the testing, problems with the user interface were detected, bugs are described in document "Bug report.md" in folder "Task3".**
 
 
 
