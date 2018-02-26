@@ -30,7 +30,7 @@ Requests were analyzed in such a way(on the example  added "Create a Contact Gro
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/UpdateOfGroup.jpg)
 
 
-
+**During the testing, problems with the user interface were detected, bugs are described in document "Bug report" in folder "Task3""**
 
 
 
@@ -63,7 +63,7 @@ Requests were analyzed in such a way(on the example  added "Create a Contact Gro
 
 
 
-**2. Write 2 use cases for Customer contact add according to Agile best practice**
+**2. Discover Swagger implementation https://github.com/dataengi/crm-seed/blob/master/conf/routes. Try to execute API requests or create bug reports if they are.**
 ==================================
 **1. Use case for adding a new client contact**
 
@@ -108,7 +108,7 @@ Requests were analyzed in such a way(on the example  added "Create a Contact Gro
 
 **Post conditions:** the fields which needed to fill are highlighted.
 
-**3. Write 3 requirements for Customer contact add**
+**3. Verify Customer contacts management (Customer contacts managements) according API Security Checklist. Make report in SOLUTION.md and commit it.**
 ==================================
 
 **Functional requirements:**
