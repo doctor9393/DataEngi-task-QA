@@ -1,7 +1,10 @@
 # DataEngi-Task3
-**1. Write user story for Customer contact add according to Agile best practice**
+**1. Discover backend API for UI requests (https://github.com/dataengi/crm-seed) and save the result of testing as a project on the own repository. Create bug reports if they are.**
 ==================================
-**1. User story for Customer contacts :**
+**Description of the testing process**
+Testing was carried out manually using docker. Relying on API requests which are implemented in Swagger, which can find in docker by using port 9000 and adding " /docs" to link in the address bar. API requests were analyzed.
+Requests were analyzed in such a way
+
 
 **As an employee of the company I want to get convenient access to the contact database of clients with the purpose to manage of customer contacts and their accounting.**
 
@@ -24,6 +27,13 @@
 1. As an employee of the company, I have the opportunity to create a new contact.
 2. As an employee of the company, I must fill in the required fields to create a new contact.
 3. As an employee of the company, I have the opportunity to create a new contact with several email addresses and phone numbers.
+
+
+
+
+
+
+
 
 **2. Write 2 use cases for Customer contact add according to Agile best practice**
 ==================================
