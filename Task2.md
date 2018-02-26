@@ -79,6 +79,7 @@
 3.	When creating a new contact, user can specify few email addresses and phone numbers. However, it must necessarily be indicated Email (Main), Phone (Main)
 
 To verify: Add five new contacts from this table(It is not possible to add a record which does not contain required fields)
+
 **Add five new contacts from table:**
 
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/forTask2.jpg)
