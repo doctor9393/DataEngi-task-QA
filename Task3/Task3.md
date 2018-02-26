@@ -22,12 +22,10 @@ Requests were analyzed in such a way(on the example  added "Create a Contact Gro
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/GroupCreate4.jpg)
 
 **Using function "Inspect Element" in the browser for check "Delete a Contact"**
-==================================
 
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/Delete%20of%20contacts.jpg)
 
 **Using function "Inspect Element" in the browser for check "Update of group"**
-==================================
 
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/UpdateOfGroup.jpg)
 
