@@ -4,7 +4,7 @@
 **Description of the testing process**
 
 Testing was carried out manually using docker. Relying on API requests which are implemented in Swagger, which can find in docker by using port 9000 and adding " /docs" to link in the address bar. API requests were analyzed.
-Requests were analyzed in such a way(on the example  added "Create a Contact Group"):
+Requests were analyzed in such a way(on the example "Create a Contact Group"):
 
 1. Consider individual requests
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/GroupCreate1.jpg)
