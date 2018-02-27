@@ -36,6 +36,11 @@ Requests were analyzed in such a way(on the example "Create a Contact Group"):
 **2. Discover Swagger implementation https://github.com/dataengi/crm-seed/blob/master/conf/routes. Try to execute API requests or create bug reports if they are.**
 ==================================
 
+Testing was carried out manually using docker. Relying on API requests which are implemented in Swagger, which can find in docker by using port 9000 and adding " /docs" to link in the address bar. API requests were analyzed.
+
+**The testing process was as follows for  POST /api/v1/contacts/group/create Create new group**
+
+
 **3. Verify Customer contacts management (Customer contacts managements) according API Security Checklist. Make report in SOLUTION.md and commit it.**
 ==================================
 
