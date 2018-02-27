@@ -38,8 +38,23 @@ Requests were analyzed in such a way(on the example "Create a Contact Group"):
 
 Testing was carried out manually using docker. Relying on API requests which are implemented in Swagger, which can find in docker by using port 9000 and adding " /docs" to link in the address bar. API requests were analyzed.
 
-**The testing process was as follows for  POST /api/v1/contacts/group/create Create new group**
+**The testing process was as follows for  "POST /api/v1/contacts/group/create Create new group":**
 
+1. Analysis of request data for "POST /api/v1/contacts/group/create Create new group"
+
+![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/API1.jpg)
+
+2. Analysis of data through function "Inspect Element" in the browser for check "Delete a Contact" for "POST /api/v1/contacts/group/create Create new group"
+
+![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/API2.jpg)
+
+3. Enter invalid data for request (Obtaining Error (code 400)):
+
+![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/API3.jpg)
+
+4. Enter valid data for request (Obtaining an existing record(code 200)):
+
+![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/API4.jpg)
 
 **3. Verify Customer contacts management (Customer contacts managements) according API Security Checklist. Make report in SOLUTION.md and commit it.**
 ==================================
