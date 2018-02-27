@@ -55,7 +55,3 @@ Testing was carried out manually using docker. Relying on API requests which are
 4. Enter valid data for request (Obtaining an existing record(code 200)):
 
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/API4.jpg)
-
-**3. Verify Customer contacts management (Customer contacts managements) according API Security Checklist. Make report in SOLUTION.md and commit it.**
-==================================
-
