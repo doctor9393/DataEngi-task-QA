@@ -56,5 +56,5 @@ Testing was carried out manually using docker. Relying on API requests which are
 
 ![Image alt](https://github.com/doctor9393/DataEngi-task-QA/blob/master/Task3/photos/API4.jpg)
 
-**During the testing API request, problem with  request "POST /auth/api/v1/authentication/signOut
+**During the testing API requests, problem with  request "POST /auth/api/v1/authentication/signOut
 SignOut" were detected, bug are described in document "Bug report.md" in folder "Task3".**
